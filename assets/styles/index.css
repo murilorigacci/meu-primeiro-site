@@ -11,10 +11,16 @@ body{
 h1,
 p {
     text-align: center;
+    margin: 10px;
 }
 
 header {
     background-color: rgb(53, 110, 233);
     color: white;
     padding: 74px;
+}
+
+main{
+    height: 600px;
+    background-color: rgb(221, 218, 218);
 }
